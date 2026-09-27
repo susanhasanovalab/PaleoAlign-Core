@@ -1,6 +1,3 @@
-Aşağıdakı kodu olduğu kimi kopyalayıb GitHub-dakı **`README.md`** faylına yapışdıra bilərsən. Bu sənəd `PaleoAlign-Core` layihəsinin bütün xüsusiyyətlərini, biyoinformatik alqoritmini, riyazi və struktur detallarını əhatə edən tam akademik və geniş README faylıdır.
-
-```markdown
 # PaleoAlign-Core 🧬
 
 > **In-memory Python pipeline for ancient DNA (aDNA) fetching, quality filtering, rCRS mitochondrial alignment, and C→T deamination verification.**
@@ -223,18 +220,3 @@ if __name__ == "__main__":
 * Bütöv genom səviyyəsində (məsələn, 230 GB-lıq tam xam FASTQ arxivlərini birbaşa RAM-a yüklədikdə) kifayət qədər böyük operativ yaddaş (RAM) tələb edə bilər. Bu səbəbdən target-alignment və ya streaming subset analizləri üçün daha optimaldır.
 
 ---
-
-## 📜 İstinadlar və Mənbələr
-
-1. **rCRS Referens Genomu:** Andrews, R. M., et al. (1999). *Reanalysis and revision of the Cambridge reference sequence for human mitochondrial DNA.* Nature Genetics, 23(2), 147-147.
-2. **Saqqaq Genome Project:** Rasmussen, M., et al. (2010). *Ancient human genome sequence of an extinct Paleo-Eskimo.* Nature, 463(7282), 757-762.
-
----
-
-## 📄 Lisenziya
-
-Bu layihə **MIT Lisenziyası** altında yayılır. Ətraflı məlumat üçün `LICENSE` faylına baxın.
-
-```
-
-```
